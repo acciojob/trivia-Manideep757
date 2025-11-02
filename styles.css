@@ -1,2 +1,17 @@
+.qn{
+	font-size :1em;
+	font-weight : bold;
+	max-width:600px
+}
+.ans{
+	background-color:#f0ffff;
+	border-left:8px solid green;
+	padding:10px;
+	margin-top:10px;
+}
+#myform{
+	margin-top:20px;
+}
+
 
 /* Your CSS Code here. */
